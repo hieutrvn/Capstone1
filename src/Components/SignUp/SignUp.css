@@ -1,0 +1,113 @@
+/* .sign-up form {
+  margin: 1.5% 30%;
+  text-align: center;
+}
+.sign-up form h1 {
+  margin-bottom: 3%;
+  font-family: cursive;
+}
+.sign-up label {
+  font-weight: 500;
+  font-size: 120%;
+  font-family: cursive;
+}
+.sign-up input {
+  font-weight: 300;
+  font-family: cursive;
+  background-color: rgba(171, 210, 223, 0.829);
+}
+.sign-up form button {
+  margin-top: 2%;
+  margin-bottom: 1%;
+  width: 100%;
+  background-color: rgba(21, 133, 141, 0.829);
+}
+.role .choose-role select {
+  font-family: cursive;
+  font-weight: 300;
+  font-family: cursive;
+  background-color: rgba(171, 210, 223, 0.829);
+}
+
+.message {
+  background-color: rgb(182, 0, 0) !important;
+  color: white !important;
+  text-align: center !important;
+} */
+
+.sign-up .container{
+height: 100%;
+align-content: center;
+margin-top: 1%;
+margin-bottom: 0%;
+}
+
+.sign-up .card-body{
+    margin-top: 0%;
+}
+
+.sign-up .card{
+height: 515px;
+margin-top: auto;
+margin-bottom: auto;
+width: 500px;
+background-color: rgba(0,0,0,0.5) !important;
+}
+
+.sign-up .social_icon span{
+font-size: 60px;
+margin-left: 10px;
+color: #FFC312;
+}
+
+.sign-up .social_icon span:hover{
+color: white;
+cursor: pointer;
+}
+
+.sign-up .card-header h3{
+color: white;
+}
+
+.sign-up .social_icon{
+position: absolute;
+right: 20px;
+top: -45px;
+}
+
+.sign-up .input-group-prepend span{
+width: 50px;
+background-color: #FFC312;
+color: black;
+border:0 !important;
+}
+
+.sign-up input:focus{
+outline: 0 0 0 0  !important;
+box-shadow: 0 0 0 0 !important;
+
+}
+
+.sign-up .login_btn{
+color: black;
+background-color: #FFC312;
+width: 100px;
+}
+
+.sign-up .login_btn:hover{
+color: black;
+background-color: white;
+}
+
+.sign-up .links{
+color: white;
+}
+
+.sign-up .links a{
+margin-left: 4px;
+}
+.message {
+  background-color: rgb(182, 0, 0) !important;
+  color: white !important;
+  text-align: center !important;
+}

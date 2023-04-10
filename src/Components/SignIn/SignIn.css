@@ -1,0 +1,116 @@
+/* .login form{
+    margin: 5% 32%;
+    text-align: center;
+}
+.login form h1{
+    margin-bottom: 5%;
+    font-family: cursive;
+}
+.login label{
+    font-weight: 500;
+    font-size: 110%;
+    font-family: cursive;
+}
+.login input{
+    font-weight: 300;
+    font-family: cursive;
+    background-color: rgba(171, 210, 223, 0.829);
+}
+.login form button{
+    margin-top: 6%;
+    width: 100%;
+    background-color: rgba(21, 133, 141, 0.829);
+} */
+
+/* Made with love by Mutiullah Samim*/
+
+/* @import url('https://fonts.googleapis.com/css?family=Numans'); */
+
+body {
+  /* background-image: url('https://media.istockphoto.com/photos/the-gray-and-silver-are-light-black-with-white-the-gradient-is-the-picture-id1188030698?k=20&m=1188030698&s=612x612&w=0&h=Zm_SpH2_NNMsMnT9mW1xVkHOZSwn6xfcCPRoSaX9w6o='); */
+  background-image: url('https://image.freepik.com/free-vector/copy-space-wavy-white-background-layers_23-2148845469.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 100%;
+  width: 100%;
+  font-family: 'Numans', sans-serif;
+}
+
+.container {
+  margin-top: 4%;
+  margin-bottom: 5%;
+  height: 100%;
+  align-content: center;
+}
+
+.container .card-body {
+  margin-top: 7%;
+}
+
+.container .card {
+  height: 400px;
+  margin-top: auto;
+  margin-bottom: auto;
+  width: 500px;
+  background-color: rgba(0, 0, 0, 0.5) !important;
+}
+
+.container .social_icon span {
+  font-size: 60px;
+  margin-left: 10px;
+  color: #ffc312;
+}
+
+.container .social_icon span:hover {
+  color: white;
+  cursor: pointer;
+}
+
+.container .card-header h3 {
+  color: white;
+}
+
+.container .social_icon {
+  position: absolute;
+  right: 20px;
+  top: -45px;
+}
+
+.container .input-group-prepend span {
+  width: 50px;
+  background-color: #ffc312;
+  color: black;
+  border: 0 !important;
+}
+
+.container input:focus {
+  outline: 0 0 0 0 !important;
+  box-shadow: 0 0 0 0 !important;
+}
+
+.container .login_btn {
+  color: black;
+  background-color: #ffc312;
+  width: 100px;
+}
+
+.container .login_btn:hover {
+  color: black;
+  background-color: white;
+}
+
+.container .links {
+  color: white;
+}
+
+.container .links a {
+  margin-left: 4px;
+}
+
+.notify-sign-in {
+  background-color: rgb(182, 0, 0) !important;
+  font-size: 15px;
+  border-radius: 10px 10px 10px 10px;
+  color: white !important;
+  text-align: center !important;
+}
